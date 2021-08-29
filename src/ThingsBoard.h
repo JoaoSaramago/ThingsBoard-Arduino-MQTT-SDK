@@ -18,6 +18,8 @@
 #define Default_Payload 64
 #define Default_Fields_Amt 8
 
+#define DEBUG_TO_SERIAL false
+
 class ThingsBoardDefaultLogger;
 
 // Telemetry record class, allows to store different data using common interface.
